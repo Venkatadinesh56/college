@@ -79,7 +79,7 @@ class Home extends StatelessWidget {
                   children: [
                     ElevatedButton(
                       onPressed: () {
-                        // Set color directly
+                        // Set color directly onclick the button
                         a = true;
                       },
                       child: Text('admin'),
