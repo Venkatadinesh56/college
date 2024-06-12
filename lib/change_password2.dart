@@ -17,6 +17,7 @@ class _ChangePassword2State extends State<ChangePassword2> {
         height: MediaQuery.of(context).size.height,
         width: MediaQuery.of(context).size.height,
       child:  Column(children: [
+        
         SizedBox(height: 80,),
             CircleAvatar(
                radius: 40,
