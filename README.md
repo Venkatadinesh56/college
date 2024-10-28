@@ -8,5 +8,5 @@ cd or-college
 
 ## running command:
 
-flutter run
+flutter run 
 
